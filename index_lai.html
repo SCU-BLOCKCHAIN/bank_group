@@ -628,7 +628,7 @@ h4 {
         </div>
 
         <div class="Password">🔒Password : &nbsp &nbsp &nbsp &nbsp
-          <input id="password" type="password" name="password" placeholder="ex : 12345" />
+          <input id="password" type="text" name="password" placeholder="ex : 12345" />
         </div>
 
         <div class="signinbtn" onclick="login()">登入 ➜</div>
@@ -925,7 +925,7 @@ function signup() {
 
     error: function (error) {
       console.log(result);
-      lert("註冊失敗", result);
+      alert("註冊失敗", result);
     },
   });
   $("#username").val("");
