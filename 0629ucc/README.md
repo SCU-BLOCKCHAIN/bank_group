@@ -1,4 +1,4 @@
-wallet_test.html : 主畫面 裡面有封面、登入註冊頁、"今天想幹嘛"、討論版
+wallet_test.html : 主畫面 裡面有封面、登入註冊頁、"今天想幹嘛"、討論版(DB目前只能在本機端運行)
 
 wallet_money.html : 轉帳頁
 
