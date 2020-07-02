@@ -10,3 +10,4 @@
 4. 轉帳 : wallet_money.html [home鍵回到"今天想幹嘛"]
 5. 每日任務 : wallet_task.html [home鍵回到"今天想幹嘛"]
 
+1. http://myweb.scu.edu.tw/~06170211/wallet_things.html (今天想幹嘛)
