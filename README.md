@@ -1,7 +1,7 @@
 # bank_group
 
 
-# 5月demo :http://18.212.29.59/web/index.html
+#5月demo :http://18.212.29.59/web/index.html
 
 
 1. 主頁: wallet_test.html [封面/登入註冊/討論版]
