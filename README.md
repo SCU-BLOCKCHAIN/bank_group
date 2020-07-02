@@ -11,3 +11,6 @@
 5. 每日任務 : wallet_task.html [home鍵回到"今天想幹嘛"]
 
 1. http://myweb.scu.edu.tw/~06170211/wallet_things.html (今天想幹嘛)
+2. http://myweb.scu.edu.tw/~06170211/wallet_task.html(每日任務)
+3. http://myweb.scu.edu.tw/~06170211/wallet_account.html(餘額)
+4. http://myweb.scu.edu.tw/~06170211/wallet_money.html(轉帳)
