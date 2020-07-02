@@ -2,7 +2,7 @@
 
 
 #5月demo :http://18.212.29.59/web/index.html
-
+#討論：https://hackmd.io/X-WBA9NWR0WjMCRRhw_pGg
 
 1. 主頁: wallet_test.html [封面/登入註冊/討論版]
 2. 今天想幹嘛: wallet_things.html [可連接到3. 4. 5. / 登出]
